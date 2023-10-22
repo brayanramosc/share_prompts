@@ -13,7 +13,7 @@ const Form = ({
                 <span className="blue_gradient" >{type} Post</span>
             </h1>
             <p className="desc text-left max-w-md">
-                {type} and share amazing propmts with the world, and let your imagination run wild with any
+                {type} and share amazing prompts with the world, and let your imagination run wild with any
                 AI-powered platform.
             </p>
 
